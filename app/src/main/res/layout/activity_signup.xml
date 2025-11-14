@@ -11,7 +11,7 @@
         android:layout_width="0dp"
         android:layout_height="335dp"
         android:scaleType="fitXY"
-        android:src="@drawable/top_background1"
+        android:src="@drawable/top_background2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
